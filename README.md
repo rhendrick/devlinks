@@ -4,7 +4,7 @@ Página pessoal responsiva para exibir e divulgar links interessantes ao seu pú
 
 Live: https://rhendrick.com.br/
 
-<a href="./assets/media.mp4/">Video de Apresentação do projeto - Clique para baixar</a>
+<a href="./assets/media.mp4/" download="Video de Apresentação do projeto - Clique para baixar">Video de Apresentação do projeto - Clique para baixar</a>
 
 <br>
 <img src="./assets/folder.png">
