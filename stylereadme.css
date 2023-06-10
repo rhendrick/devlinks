@@ -1,0 +1,10 @@
+
+.center{
+   text-align: center; 
+   width: 300px;
+   height: 800px;
+   display: flex;
+   justify-content:center;
+   align-items: center;
+
+}
